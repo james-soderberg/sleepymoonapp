@@ -1,0 +1,2 @@
+# Redirect www to apex domain
+https://www.sleepymoonapp.com/* https://sleepymoonapp.com/:splat 301!
